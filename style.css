@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.carousel-content-1{
+    background:linear-gradient(#FEEAE9,#FEEAE9);
+    border-radius: 32px;
+    }
+.carousel-content-2{
+background:linear-gradient(white,gray,lightgrey,white);
+border-radius: 32px;
+}
+.carousel-content-3{
+    background:linear-gradient(white,gray,lightgrey,white);
+    border-radius: 32px;
+ }
+.panda-card{
+    border:none;
+}
+.panda-card-footer{
+    border:none;
+    background: white;
+}
+.categories img{
+  width:100px;
+  height:100px;
+}
+.btn-carousel{
+    background: hotpink;
+    outline:none;
+    border-color:hotpink
+}
